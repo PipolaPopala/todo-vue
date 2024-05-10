@@ -20,6 +20,10 @@
   font-family: 'montserrat', sans-serif;
 }
 
+input {
+  width: 100%;
+}
+
 .app {
   max-width: 700px;
   margin: 40px auto;
